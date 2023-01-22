@@ -1,0 +1,6 @@
+framework module Pods_Realm_UsefulConnections {
+  umbrella header "Pods-Realm-UsefulConnections-umbrella.h"
+
+  export *
+  module * { export * }
+}
