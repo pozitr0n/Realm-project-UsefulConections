@@ -1,6 +1,8 @@
 # Realm project UsefulConections
 ## Test project for working with Realm framework
 
+`Large files (more than 100 MB) of the Realm database with the ".a" extension were placed in the repository of the remote github repository using the GIT LFS framework.`
+
 ### The application implements the following functionality:
 
 ```
